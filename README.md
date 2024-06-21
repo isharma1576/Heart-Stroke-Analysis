@@ -1,4 +1,4 @@
-# Heat-Stroke-Analysis
+# Heart-Stroke-Analysis
 Heart stroke, a critical medical condition, demands thorough analysis for better understanding and prevention. Leveraging the capabilities of Power BI, this project aims to analyze heart stroke data for a sample size of 5,100 patients. By utilizing Power BI's advanced data visualization and analytical tools, we can uncover key insights into the factors influencing heart stroke occurrences and outcomes.
 
 Objectives of the Analysis:
